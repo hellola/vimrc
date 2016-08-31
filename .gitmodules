@@ -4,6 +4,15 @@
 [submodule "sources_non_forked/vim-airline"]
 	path = sources_non_forked/vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "sources_non_forked/tmuxline.vim"]
-	path = sources_non_forked/tmuxline.vim
-	url = https://github.com/edkolev/tmuxline.vim
+[submodule "sources_non_forked/vim-jsbeautify"]
+	path = sources_non_forked/vim-jsbeautify
+	url = https://github.com/maksimr/vim-jsbeautify.git
+[submodule "sources_non_forked/vim-orgmode"]
+	path = sources_non_forked/vim-orgmode
+	url = git@github.com:jceb/vim-orgmode.git
+[submodule "sources_non_forked/vim-node"]
+	path = sources_non_forked/vim-node
+	url = git@github.com:moll/vim-node.git
+[submodule "sources_non_forked/utl.vim"]
+	path = sources_non_forked/utl.vim
+	url = git@github.com:vim-scripts/utl.vim.git
