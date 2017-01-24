@@ -16,3 +16,30 @@
 [submodule "sources_non_forked/utl.vim"]
 	path = sources_non_forked/utl.vim
 	url = git@github.com:vim-scripts/utl.vim.git
+[submodule "sources_non_forked/vim-mocha"]
+	path = sources_non_forked/vim-mocha
+	url = git@github.com:geekjuice/vim-mocha.git
+[submodule "sources_non_forked/github-vim"]
+	path = sources_non_forked/github-vim
+	url = git@github.com:solars/github-vim.git
+[submodule "sources_non_forked/vim-racer"]
+	path = sources_non_forked/vim-racer
+	url = https://github.com/racer-rust/vim-racer.git
+[submodule "sources_non_forked/YouCompleteMe"]
+	path = sources_non_forked/YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule "sources_non_forked/ultisnips"]
+	path = sources_non_forked/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "sources_non_forked/nerdcommenter"]
+	path = sources_non_forked/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "sources_non_forked/vim-json"]
+	path = sources_non_forked/vim-json
+	url = git@github.com:elzr/vim-json.git
+[submodule "sources_non_forked/vim-javascript-syntax"]
+	path = sources_non_forked/vim-javascript-syntax
+	url = git@github.com:jelera/vim-javascript-syntax.git
+[submodule "sources_non_forked/vim-tmux-navigator"]
+	path = sources_non_forked/vim-tmux-navigator
+	url = git@github.com:christoomey/vim-tmux-navigator.git
