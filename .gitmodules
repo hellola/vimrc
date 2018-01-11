@@ -16,3 +16,12 @@
 [submodule "sources_non_forked/vim-airline"]
 	path = sources_non_forked/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "sources_non_forked/vim-abolish"]
+	path = sources_non_forked/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "sources_non_forked/vim-rails"]
+	path = sources_non_forked/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "sources_non_forked/vim-tmux-focus-events"]
+	path = sources_non_forked/vim-tmux-focus-events
+	url = https://github.com/tmux-plugins/vim-tmux-focus-events.git
