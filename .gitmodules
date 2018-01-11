@@ -9,16 +9,13 @@
 	url = https://github.com/gosukiwi/vim-atom-dark.git
 [submodule "sources_non_forked/vim-orgmode"]
 	path = sources_non_forked/vim-orgmode
-	url = ./sources_non_forked/vim-abolish
+	url = ./sources_non_forked/vim-orgmode
 [submodule "sources_non_forked/vim-airline-themes"]
 	path = sources_non_forked/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
 [submodule "sources_non_forked/vim-airline"]
 	path = sources_non_forked/vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "sources_non_forked/vim-abolish"]
-	path = sources_non_forked/vim-abolish
-	url = https://github.com/tpope/vim-abolish.git
 [submodule "sources_non_forked/vim-rails"]
 	path = sources_non_forked/vim-rails
 	url = https://github.com/tpope/vim-rails.git
